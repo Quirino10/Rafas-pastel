@@ -1,6 +1,6 @@
-*Como salvar com http://Index.html*
+Como salvar com http://Index.html
 
-*No Windows:*
+No Windows:
 1. Copia todo o código que te mandei
 2. Abre o Bloco de Notas
 3. Cola o código
@@ -9,18 +9,18 @@
 6. Em "Tipo" escolhe: `Todos os arquivos (_._)`
 7. Salva na Área de Trabalho ou numa pasta
 
-*No celular:*
+No celular:
 1. Instala o app "Acode" ou "QuickEdit" na Play Store
 2. Cria novo arquivo
 3. Cola o código
 4. Salva como `index.html`
 
-*Importante:*
+Importante:
 1. O nome tem que ser `index.html` com i minúsculo. É o arquivo padrão que todo site procura primeiro.
 2. *Troca o número do WhatsApp* na linha 186: `const numeroWhatsApp = "5511987654321";`
 3. Depois é só dar duplo clique no arquivo que abre no navegador pra testar
 
-*Pra colocar online de graça:*
+Pra colocar online de graça:
 1. Cria conta no https://github.com
 2. Novo repositório com nome `rafas-pastel`
 3. Upload do arquivo `index.html`
